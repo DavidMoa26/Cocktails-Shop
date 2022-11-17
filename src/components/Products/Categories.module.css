@@ -1,0 +1,11 @@
+.buttons{
+    display: flex;
+    justify-content: center;
+    font-family: 'Rubik Microbe', cursive;
+}
+
+.title{
+    text-align: center;
+    margin-bottom: 1rem;
+    font-family: 'Rubik Distressed', cursive;
+}

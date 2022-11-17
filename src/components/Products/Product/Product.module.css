@@ -1,0 +1,30 @@
+.meal {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: 1rem;
+  padding-bottom: 1rem;
+  border: 1px solid #ccc;
+}
+
+.meal h2 {
+  margin: 2%;
+}
+
+.description {
+  font-weight: bold;
+}
+
+.price {
+  margin: 0.5rem;
+  font-weight: bold;
+  color: #ad5502;
+  font-size: 1.25rem;
+}
+
+.coin{
+  position: relative;
+  bottom: 2px;
+}
+
